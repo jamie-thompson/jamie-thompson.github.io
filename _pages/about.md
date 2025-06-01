@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m **Dr Jamie B. Thompson**, an evolutionary biologist and ethnobotanist, with a deep focus on plant diversity, especially **cacti and other succulents**.
+Welcome! I’m **Dr Jamie B. Thompson**, an evolutionary biologist and ethnobotanist, with a deep research focus on plant diversity, especially **cacti and other succulents**.
 
 I am the recipient of the Linnean Society's Irene Manton Prize (2025), recognising the best botanical PhD thesis.  I also just won a Leverhulme Early Career Fellowship, to continue working on origins of plant diversity.  Here, I am doing pilot studies on my favourite group (the cacti), then expandin analyses to all flowering and beyond.
 
