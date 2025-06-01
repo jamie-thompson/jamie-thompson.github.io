@@ -17,6 +17,7 @@ I have an odd brain and have lots of diverse interests.  My research focusses:
 - Origins of pollinator diversity, and their consequences on diversification, in orchids and bromeliads
 - Ethnobotany, and how evolutionary methods can predict where to find new plant drugs
 - Cultural evolution of medicinal plant knowledge, to reveal deep ancestral origins and new adaptive strategies
+
 But I am also very interested in other things, including mass extinctions, trait evolution, and other things (even non-plants sometimes).
 
 I teach undergraduate courses in conservation biology, and have taught population genetics previously.  I supervise BSc research students on topics as diverse as the evolution of infanticide in primates, predictors of viral diversity in bats, and whether hummingbirds accelerated bromeliad diversification.  I co-supervise PhD students on drivers of geophyte evolution, and the ethnobotany of traditional Chinese medicine.
