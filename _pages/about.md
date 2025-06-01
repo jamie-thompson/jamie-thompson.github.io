@@ -9,9 +9,9 @@ redirect_from:
 
 Welcome! I’m **Dr Jamie B. Thompson**, an evolutionary biologist and ethnobotanist, with a deep research focus on plant diversity, especially **cacti and other succulents**.
 
-I am the recipient of the Linnean Society's Irene Manton Prize (2025), recognising the best botanical PhD thesis.  I also just won a Leverhulme Early Career Fellowship, to continue working on origins of plant diversity.  Here, I am doing pilot studies on my favourite group (the cacti), then expandin analyses to all flowering and beyond.
+I am the recipient of the Linnean Society's **Irene Manton Prize** (2025), recognising the best botanical PhD thesis.  I also just won a Leverhulme Early Career Fellowship, to continue working on origins of plant diversity.  Here, I am doing pilot studies on my favourite group (cacti), then expanding analyses to all flowering plants, and beyond!
 
-My research explores:
+I have an odd brain and have lots of diverse interests.  My research focusses:
 - Evolution, diversification and historical biogeography of cacti and other succulents
 - Climate-dependent diversification through time, in orchids and other plants
 - Origins of pollinator diversity, and their consequences on diversification, in orchids and bromeliads
@@ -22,7 +22,7 @@ But I am also very interested in other things, including mass extinctions, trait
 I teach undergraduate courses in conservation biology, and have taught population genetics previously.  I supervise BSc research students on topics as diverse as the evolution of infanticide in primates, predictors of viral diversity in bats, and whether hummingbirds accelerated bromeliad diversification.  I co-supervise PhD students on drivers of geophyte evolution, and the ethnobotany of traditional Chinese medicine.
 
 Ongoing projects:
-- A database of morphological, phylogenetic, and ecological data for Cactaceae for >1,000 species
+- A database of morphological, phylogenetic, and ecological data for Cactaceae for >1,000 species (CactEcoDB, invited by Nature Scientific Data)
 - A continuous-space 3D reconstruction of historical biogeography in Cactaceae using the biggest cactus phylogeny
 - Exploring morphological evolution in Cactaceae to reveal drivers of selection
 - Origins of diverse pollinator strategies in orchids and bromeliads, and whether this accelerates diversification
