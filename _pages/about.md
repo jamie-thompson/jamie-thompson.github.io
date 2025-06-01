@@ -19,7 +19,7 @@ My research explores:
 - Cultural evolution of medicinal plant knowledge, to reveal deep ancestral origins and new adaptive strategies
 But I am also very interested in other things, including mass extinctions, trait evolution, and other things (even non-plants sometimes).
 
-I teach undergraduate courses in conservation biology, and have taught population genetics previously.  I supervise BSc research students on topics as diverse as the evolution of infanticide in primates, predicotrs of viral diversity in bats, and whether hummingbirds accelerated bromeliad diversification.  I co-supervise PhD students on drivers of geophyte evolution, and the ethnobotany of traditional Chinese medicine.
+I teach undergraduate courses in conservation biology, and have taught population genetics previously.  I supervise BSc research students on topics as diverse as the evolution of infanticide in primates, predictors of viral diversity in bats, and whether hummingbirds accelerated bromeliad diversification.  I co-supervise PhD students on drivers of geophyte evolution, and the ethnobotany of traditional Chinese medicine.
 
 Ongoing projects:
 - A database of morphological, phylogenetic, and ecological data for Cactaceae for >1,000 species
