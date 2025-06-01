@@ -22,7 +22,7 @@ repository               : "https://github.com/jamie-thompson/jamie-thompson.git
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/kitten_new.jpg"
+  avatar           : images/kitten_new.jpg
   name             : "Dr Jamie B. Thompson"
   bio              : "Award winning evolutionary biologist, ethnobotanist and lecturer"
   location         : "Reading"
